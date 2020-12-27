@@ -1,0 +1,14 @@
+While Uploading the database error may occur " Database not selected" or any other may occur.
+
+Follow the steps:
+
+1. Create any database by clicking 'New' in phpmyadmin.
+2. Name it anything for eg. 'sample'
+3. Select the newly created database and click on the 'Import' option and the select the database i.e. 'bus_booking'
+4. After successfully uploading the database, RENAME IT TO "bus_booking". To rename it Go to OPERATION TAB.
+
+ Note: Rename it to the name given in "" i.e. bus_booking or else it wont work.
+       It May take some time but its working.
+
+
+**Use 'localhost/bus_booking/login.php' as first page.
