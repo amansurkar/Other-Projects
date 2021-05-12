@@ -1,2 +1,2 @@
-# Other-Projects
-It contain all other projects I have done
+#Projects
+It contains the projects based in PHP and Database
